@@ -1,0 +1,6 @@
+# dune init project hello
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Workspace root:
+# /home/ruby/Documents/programming-languages-learning/ocaml/hello
+# Auto-detected concurrency: 6

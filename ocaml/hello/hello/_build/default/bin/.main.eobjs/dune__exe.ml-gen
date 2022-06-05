@@ -1,0 +1,10 @@
+(** @canonical Dune__exe.Algorithms *)
+module Algorithms = Dune__exe__Algorithms
+
+
+(** @canonical Dune__exe.Fraction *)
+module Fraction = Dune__exe__Fraction
+
+
+(** @canonical Dune__exe.Main *)
+module Main = Dune__exe__Main

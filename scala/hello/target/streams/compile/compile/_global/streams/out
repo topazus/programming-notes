@@ -1,0 +1,9 @@
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E006] Not Found Error: /home/ruby/Documents/programming-languages-learning/scala/hello/src/main/scala/Main.scala:7:2 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m7 |[0m  breakable {[0m
+[0m[[0m[31merror[0m] [0m[0m  |  [31m^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m  |  Not found: breakable[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E006] Not Found Error: /home/ruby/Documents/programming-languages-learning/scala/hello/src/main/scala/Main.scala:10:21 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m10 |[0m      [33mif[0m i == [31m4[0m [33mthen[0m break[0m
+[0m[[0m[31merror[0m] [0m[0m   |                     [31m^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                     Not found: break[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

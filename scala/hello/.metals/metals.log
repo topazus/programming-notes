@@ -1,0 +1,566 @@
+2022.06.05 20:45:04 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/ruby/Documents/programming-languages-learning/scala/hello/.metals/lsp.trace.json or /home/ruby/.cache/metals/lsp.trace.json
+2022.06.05 20:45:04 INFO  logging to file /home/ruby/Documents/programming-languages-learning/scala/hello/.metals/metals.log
+2022.06.05 20:45:04 INFO  Started: Metals version 0.11.6 in workspace '/home/ruby/Documents/programming-languages-learning/scala/hello' for client Visual Studio Code 1.66.2.
+2022.06.05 20:45:05 INFO  time: initialize in 0.41s
+2022.06.05 20:45:05 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.06.05 20:45:05 WARN  Build server is not auto-connectable.
+2022.06.05 20:45:27 WARN  no build target for: /home/ruby/Documents/programming-languages-learning/scala/hello/src/main/scala/Main.scala
+2022.06.05 20:45:38 INFO  no build target found for /home/ruby/Documents/programming-languages-learning/scala/hello/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.1.2
+2022.06.05 20:45:39 INFO  time: code lens generation in 12s
+2022.06.05 20:45:39 INFO  time: code lens generation in 11s
+Jun 05, 2022 8:45:48 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jun 05, 2022 8:45:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 20
+Jun 05, 2022 8:45:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23
+Jun 05, 2022 8:45:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 37
+Jun 05, 2022 8:45:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 46
+Jun 05, 2022 8:45:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 51
+Jun 05, 2022 8:46:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 65
+Jun 05, 2022 8:46:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 69
+Jun 05, 2022 8:46:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 80
+Jun 05, 2022 8:46:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 104
+Jun 05, 2022 8:46:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 107
+Jun 05, 2022 8:46:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 131
+Jun 05, 2022 8:46:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 150
+Jun 05, 2022 8:46:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 172
+Jun 05, 2022 8:46:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 183
+Jun 05, 2022 8:46:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 188
+Jun 05, 2022 8:46:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 195
+Jun 05, 2022 8:46:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 200
+Jun 05, 2022 8:47:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 216
+Jun 05, 2022 8:47:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 223
+Jun 05, 2022 8:47:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 227
+Jun 05, 2022 8:47:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 237
+Jun 05, 2022 8:47:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 241
+Jun 05, 2022 8:47:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 248
+Jun 05, 2022 8:47:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 253
+Jun 05, 2022 8:47:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 271
+Jun 05, 2022 8:47:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 270
+Jun 05, 2022 8:47:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 280
+Jun 05, 2022 8:47:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 286
+Jun 05, 2022 8:47:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 299
+Jun 05, 2022 8:47:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 311
+Jun 05, 2022 8:47:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 314
+Jun 05, 2022 8:48:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 332
+Jun 05, 2022 8:48:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 333
+Jun 05, 2022 8:50:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 366
+Jun 05, 2022 8:50:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 368
+Jun 05, 2022 8:50:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 374
+Jun 05, 2022 8:50:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 380
+2022.06.05 20:51:44 WARN  no build target for: /home/ruby/Documents/programming-languages-learning/scala/hello/src/main/scala/Main.scala
+Jun 05, 2022 8:53:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 410
+Jun 05, 2022 8:53:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 411
+Jun 05, 2022 8:53:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 417
+Jun 05, 2022 8:53:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 421
+Jun 05, 2022 8:53:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 423
+Jun 05, 2022 8:53:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 425
+Jun 05, 2022 8:53:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 437
+Jun 05, 2022 8:53:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 449
+Jun 05, 2022 8:53:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 453
+Jun 05, 2022 8:53:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 457
+Jun 05, 2022 8:53:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 462
+Jun 05, 2022 8:53:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 465
+Jun 05, 2022 8:53:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 487
+Jun 05, 2022 8:53:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 489
+Jun 05, 2022 8:54:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 498
+Jun 05, 2022 8:54:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 504
+Jun 05, 2022 8:54:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 505
+Jun 05, 2022 8:54:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 513
+Jun 05, 2022 8:54:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 526
+Jun 05, 2022 8:54:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 529
+Jun 05, 2022 8:54:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 534
+Jun 05, 2022 8:54:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 535
+Jun 05, 2022 8:54:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 549
+Jun 05, 2022 8:55:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 592
+Jun 05, 2022 8:55:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 594
+Jun 05, 2022 8:55:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 620
+Jun 05, 2022 8:56:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 641
+Jun 05, 2022 8:56:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 642
+Jun 05, 2022 8:57:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 675
+Jun 05, 2022 8:57:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 682
+Jun 05, 2022 8:57:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 686
+Jun 05, 2022 8:57:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 707
+Jun 05, 2022 8:57:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 709
+Jun 05, 2022 8:57:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 712
+Jun 05, 2022 8:57:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 737
+Jun 05, 2022 8:57:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 741
+Jun 05, 2022 8:57:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 763
+2022.06.05 20:59:42 WARN  no build target for: /home/ruby/Documents/programming-languages-learning/scala/hello/src/main/scala/Main.scala
+Jun 05, 2022 9:00:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 838
+Jun 05, 2022 9:00:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 845
+Jun 05, 2022 9:00:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 852
+Jun 05, 2022 9:00:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 853
+Jun 05, 2022 9:00:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 863
+Jun 05, 2022 9:00:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 865
+Jun 05, 2022 9:00:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 867
+Jun 05, 2022 9:01:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 891
+Jun 05, 2022 9:01:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 895
+Jun 05, 2022 9:01:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 896
+Jun 05, 2022 9:01:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 939
+Jun 05, 2022 9:01:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 947
+Jun 05, 2022 9:01:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 955
+Jun 05, 2022 9:01:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 985
+Jun 05, 2022 9:01:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 990
+Jun 05, 2022 9:01:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1038
+Jun 05, 2022 9:03:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1082
+Jun 05, 2022 9:03:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1106
+Jun 05, 2022 9:03:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1134
+Jun 05, 2022 9:04:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1150
+Jun 05, 2022 9:04:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1199
+Jun 05, 2022 9:04:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1207
+Jun 05, 2022 9:04:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1255
+Jun 05, 2022 9:04:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1272
+Jun 05, 2022 9:04:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1274
+Jun 05, 2022 9:04:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1275
+Jun 05, 2022 9:05:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1337
+Jun 05, 2022 9:05:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1339
+Jun 05, 2022 9:05:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1364
+Jun 05, 2022 9:05:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1378
+Jun 05, 2022 9:05:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1394
+Jun 05, 2022 9:05:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1413
+Jun 05, 2022 9:05:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1415
+Jun 05, 2022 9:05:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1428
+Jun 05, 2022 9:05:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1432
+Jun 05, 2022 9:05:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1434
+Jun 05, 2022 9:05:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1461
+Jun 05, 2022 9:05:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1467
+Jun 05, 2022 9:05:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1468
+Jun 05, 2022 9:05:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1474
+Jun 05, 2022 9:05:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1476
+Jun 05, 2022 9:05:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1491
+Jun 05, 2022 9:07:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1514
+Jun 05, 2022 9:07:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1515
+Jun 05, 2022 9:07:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1528
+Jun 05, 2022 9:07:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1574
+Jun 05, 2022 9:07:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1575
+Jun 05, 2022 9:07:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1580
+Jun 05, 2022 9:07:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1582
+Jun 05, 2022 9:07:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1600
+Jun 05, 2022 9:07:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1625
+Jun 05, 2022 9:07:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1639
+Jun 05, 2022 9:07:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1647
+Jun 05, 2022 9:07:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1657
+2022.06.05 21:08:09 WARN  no build target for: /home/ruby/Documents/programming-languages-learning/scala/hello/src/main/scala/Main.scala
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.5.3/scalafmt-core_2.13-3.5.3.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.5.3/scalafmt-core_2.13-3.5.3.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-sysops_2.13/3.5.3/scalafmt-sysops_2.13-3.5.3.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.5.3/scalafmt-config_2.13-3.5.3.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.5.5/scalameta_2.13-4.5.5.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-sysops_2.13/3.5.3/scalafmt-sysops_2.13-3.5.3.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.5.5/scalameta_2.13-4.5.5.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.5.3/scalafmt-config_2.13-3.5.3.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.5.5/parsers_2.13-4.5.5.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.5.5/parsers_2.13-4.5.5.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.5.5/trees_2.13-4.5.5.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.5.5/trees_2.13-4.5.5.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.5.5/common_2.13-4.5.5.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.5.5/common_2.13-4.5.5.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.5.5/common_2.13-4.5.5.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.5.5/parsers_2.13-4.5.5.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-sysops_2.13/3.5.3/scalafmt-sysops_2.13-3.5.3.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.5.5/trees_2.13-4.5.5.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.5.3/scalafmt-config_2.13-3.5.3.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.5.5/scalameta_2.13-4.5.5.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.5.3/scalafmt-config_2.13-3.5.3.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.5.3/scalafmt-core_2.13-3.5.3.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-sysops_2.13/3.5.3/scalafmt-sysops_2.13-3.5.3.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.5.5/scalameta_2.13-4.5.5.jar
+Still downloading:
+https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.5.3/scalafmt-core_2.13-3.5.3.jar (90.18 %, 1850776 / 2052229)
+https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.5.5/parsers_2.13-4.5.5.jar (74.47 %, 933272 / 1253261)
+https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.5.5/trees_2.13-4.5.5.jar (72.53 %, 3167647 / 4367643)
+https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.5.5/common_2.13-4.5.5.jar (65.05 %, 1555864 / 2391657)
+
+Still downloading:
+https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.5.3/scalafmt-core_2.13-3.5.3.jar (98.17 %, 2014616 / 2052229)
+https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.5.5/parsers_2.13-4.5.5.jar (88.74 %, 1112160 / 1253261)
+https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.5.5/trees_2.13-4.5.5.jar (81.15 %, 3544479 / 4367643)
+https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.5.5/common_2.13-4.5.5.jar (71.90 %, 1719704 / 2391657)
+
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.5.3/scalafmt-core_2.13-3.5.3.jar
+Still downloading:
+https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.5.5/parsers_2.13-4.5.5.jar (99.20 %, 1243232 / 1253261)
+https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.5.5/common_2.13-4.5.5.jar (97.25 %, 2325912 / 2391657)
+https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.5.5/trees_2.13-4.5.5.jar (84.15 %, 3675551 / 4367643)
+
+Downloaded https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.5.5/common_2.13-4.5.5.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.5.5/parsers_2.13-4.5.5.jar
+Still downloading:
+https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.5.5/trees_2.13-4.5.5.jar (89.78 %, 3921311 / 4367643)
+
+Downloaded https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.5.5/trees_2.13-4.5.5.jar
+2022.06.05 21:08:55 ERROR scalafmt: /home/ruby/Documents/programming-languages-learning/scala/hello/src/main/scala/Main.scala:1: error: [dialect scala213] expected start of definition
+@main def hello: Unit =
+      ^
+Jun 05, 2022 9:08:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1708
+2022.06.05 21:08:55 WARN  no build target for: /home/ruby/Documents/programming-languages-learning/scala/hello/src/main/scala/Main.scala
+Jun 05, 2022 9:08:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1709
+Jun 05, 2022 9:08:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1711
+Jun 05, 2022 9:08:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1715
+Jun 05, 2022 9:08:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1716
+Jun 05, 2022 9:08:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1717
+Jun 05, 2022 9:08:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1719
+2022.06.05 21:08:55 WARN  no build target for: /home/ruby/Documents/programming-languages-learning/scala/hello/src/main/scala/Main.scala
+2022.06.05 21:08:55 ERROR scalafmt: /home/ruby/Documents/programming-languages-learning/scala/hello/src/main/scala/Main.scala:1: error: [dialect scala213] expected start of definition
+@main def hello: Unit =
+      ^
+Jun 05, 2022 9:08:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1718
+Jun 05, 2022 9:08:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1722
+Jun 05, 2022 9:08:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1720
+2022.06.05 21:08:55 WARN  no build target for: /home/ruby/Documents/programming-languages-learning/scala/hello/src/main/scala/Main.scala
+2022.06.05 21:08:55 ERROR scalafmt: /home/ruby/Documents/programming-languages-learning/scala/hello/src/main/scala/Main.scala:1: error: [dialect scala213] expected start of definition
+@main def hello: Unit =
+      ^
+Jun 05, 2022 9:08:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1710
+2022.06.05 21:08:55 WARN  no build target for: /home/ruby/Documents/programming-languages-learning/scala/hello/src/main/scala/Main.scala
+2022.06.05 21:09:00 ERROR scalafmt: /home/ruby/Documents/programming-languages-learning/scala/hello/src/main/scala/Main.scala:1: error: [dialect scala213] expected start of definition
+@main def hello: Unit =
+      ^
+2022.06.05 21:09:00 WARN  no build target for: /home/ruby/Documents/programming-languages-learning/scala/hello/src/main/scala/Main.scala
+Jun 05, 2022 9:09:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1740
+Jun 05, 2022 9:09:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1770
+Jun 05, 2022 9:09:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1774
+2022.06.05 21:09:28 ERROR scalafmt: /home/ruby/Documents/programming-languages-learning/scala/hello/src/main/scala/Main.scala:1: error: [dialect scala213] expected start of definition
+@main def hello: Unit =
+      ^
+2022.06.05 21:09:28 WARN  no build target for: /home/ruby/Documents/programming-languages-learning/scala/hello/src/main/scala/Main.scala
+Jun 05, 2022 9:09:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1803
+2022.06.05 21:09:55 ERROR scalafmt: /home/ruby/Documents/programming-languages-learning/scala/hello/src/main/scala/Main.scala:1: error: [dialect scala213] expected start of definition
+@main def hello: Unit =
+      ^
+2022.06.05 21:09:55 WARN  no build target for: /home/ruby/Documents/programming-languages-learning/scala/hello/src/main/scala/Main.scala
+2022.06.05 21:10:05 ERROR scalafmt: /home/ruby/Documents/programming-languages-learning/scala/hello/src/main/scala/Main.scala:1: error: [dialect scala213] expected start of definition
+@main def hello: Unit =
+      ^
+2022.06.05 21:10:05 WARN  no build target for: /home/ruby/Documents/programming-languages-learning/scala/hello/src/main/scala/Main.scala
+2022.06.05 21:10:15 ERROR scalafmt: /home/ruby/Documents/programming-languages-learning/scala/hello/src/main/scala/Main.scala:1: error: [dialect scala213] expected start of definition
+@main def hello: Unit =
+      ^
+2022.06.05 21:10:15 WARN  no build target for: /home/ruby/Documents/programming-languages-learning/scala/hello/src/main/scala/Main.scala
+Jun 05, 2022 9:10:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1844
+2022.06.05 21:10:17 ERROR scalafmt: /home/ruby/Documents/programming-languages-learning/scala/hello/src/main/scala/Main.scala:1: error: [dialect scala213] expected start of definition
+@main def hello: Unit =
+      ^
+2022.06.05 21:10:17 WARN  no build target for: /home/ruby/Documents/programming-languages-learning/scala/hello/src/main/scala/Main.scala
+Jun 05, 2022 9:10:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1893
+Jun 05, 2022 9:11:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1940
+Jun 05, 2022 9:11:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1962
+Jun 05, 2022 9:11:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1964
+Jun 05, 2022 9:11:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1965
+Jun 05, 2022 9:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1978
+Jun 05, 2022 9:11:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1988
+2022.06.05 21:11:28 ERROR scalafmt: /home/ruby/Documents/programming-languages-learning/scala/hello/src/main/scala/Main.scala:1: error: [dialect scala213] expected start of definition
+@main def hello: Unit =
+      ^
+2022.06.05 21:11:29 WARN  no build target for: /home/ruby/Documents/programming-languages-learning/scala/hello/src/main/scala/Main.scala
+Jun 05, 2022 9:11:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2005
+Jun 05, 2022 9:11:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2006
+2022.06.05 21:11:34 ERROR scalafmt: /home/ruby/Documents/programming-languages-learning/scala/hello/src/main/scala/Main.scala:1: error: [dialect scala213] expected start of definition
+@main def hello: Unit =
+      ^
+2022.06.05 21:11:34 WARN  no build target for: /home/ruby/Documents/programming-languages-learning/scala/hello/src/main/scala/Main.scala
+Jun 05, 2022 9:11:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2032
+Jun 05, 2022 9:12:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2071
+Jun 05, 2022 9:12:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2077
+Jun 05, 2022 9:12:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2083
+Jun 05, 2022 9:12:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2084
+Jun 05, 2022 9:12:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2086
+Jun 05, 2022 9:12:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2087
+Jun 05, 2022 9:12:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2101
+Jun 05, 2022 9:13:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2120
+Jun 05, 2022 9:13:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2137
+Jun 05, 2022 9:13:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2168
+Jun 05, 2022 9:13:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2183
+Jun 05, 2022 9:13:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2202
+Jun 05, 2022 9:14:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2215
+Jun 05, 2022 9:14:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2228
+2022.06.05 21:15:06 ERROR scalafmt: /home/ruby/Documents/programming-languages-learning/scala/hello/src/main/scala/Main.scala:1: error: [dialect scala213] expected start of definition
+@main def hello: Unit =
+      ^
+2022.06.05 21:15:06 WARN  no build target for: /home/ruby/Documents/programming-languages-learning/scala/hello/src/main/scala/Main.scala
+2022.06.05 21:15:10 ERROR scalafmt: /home/ruby/Documents/programming-languages-learning/scala/hello/src/main/scala/Main.scala:1: error: [dialect scala213] expected start of definition
+@main def hello: Unit =
+      ^
+2022.06.05 21:15:10 WARN  no build target for: /home/ruby/Documents/programming-languages-learning/scala/hello/src/main/scala/Main.scala
+2022.06.05 21:16:04 WARN  no build target for: /home/ruby/Documents/programming-languages-learning/scala/hello/src/main/scala/Main.scala
+Jun 05, 2022 9:18:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2330
+Jun 05, 2022 9:18:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2332
+Jun 05, 2022 9:18:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2338
+Jun 05, 2022 9:18:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2346
+Jun 05, 2022 9:18:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2372
+2022.06.05 21:18:15 WARN  no build target for: /home/ruby/Documents/programming-languages-learning/scala/hello/src/main/scala/Main.scala
+Jun 05, 2022 9:22:45 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2022.06.05 22:13:28 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/ruby/Documents/programming-languages-learning/scala/hello/.metals/lsp.trace.json or /home/ruby/.cache/metals/lsp.trace.json
+2022.06.05 22:13:28 INFO  logging to file /home/ruby/Documents/programming-languages-learning/scala/hello/.metals/metals.log
+2022.06.05 22:13:28 INFO  Started: Metals version 0.11.6 in workspace '/home/ruby/Documents/programming-languages-learning/scala/hello' for client Visual Studio Code 1.66.2.
+2022.06.05 22:13:29 INFO  time: initialize in 0.4s
+2022.06.05 22:13:29 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.06.05 22:13:29 WARN  Build server is not auto-connectable.
+2022.06.05 22:13:28 INFO  skipping build import with status 'Requested'
+2022.06.05 22:13:31 WARN  no build target for: /home/ruby/Documents/programming-languages-learning/scala/hello/src/main/scala/Main.scala
+Jun 05, 2022 10:13:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+2022.06.05 22:13:32 INFO  no build target found for /home/ruby/Documents/programming-languages-learning/scala/hello/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.1.2
+2022.06.05 22:13:34 INFO  time: code lens generation in 2.77s
+2022.06.05 22:13:34 INFO  time: code lens generation in 2.79s
+Jun 05, 2022 10:15:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 164
+Jun 05, 2022 10:16:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 234
+2022.06.05 22:16:27 WARN  no build target for: /home/ruby/Documents/programming-languages-learning/scala/hello/src/main/scala/Main.scala
+Jun 05, 2022 10:16:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 264
+Jun 05, 2022 10:16:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 269
+2022.06.05 22:16:34 WARN  no build target for: /home/ruby/Documents/programming-languages-learning/scala/hello/src/main/scala/Main.scala
+2022.06.05 22:17:01 WARN  no build target for: /home/ruby/Documents/programming-languages-learning/scala/hello/src/main/scala/Main.scala
+2022.06.05 22:17:38 WARN  no build target for: /home/ruby/Documents/programming-languages-learning/scala/hello/src/main/scala/Main.scala
+Jun 05, 2022 10:17:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 369
+Jun 05, 2022 10:17:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 376
+Jun 05, 2022 10:17:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 394
+Jun 05, 2022 10:17:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 399
+Jun 05, 2022 10:17:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 401
+Jun 05, 2022 10:17:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 403
+Jun 05, 2022 10:17:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 402
+Jun 05, 2022 10:17:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 404
+Jun 05, 2022 10:18:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 443
+Jun 05, 2022 10:18:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 456
+Jun 05, 2022 10:18:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 467
+Jun 05, 2022 10:18:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 476
+Jun 05, 2022 10:18:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 478
+Jun 05, 2022 10:18:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 492
+2022.06.05 22:18:26 INFO  shutting down Metals
+2022.06.05 22:18:26 ERROR Unexpected error initializing server
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2022.06.05 22:18:26 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+Jun 05, 2022 10:18:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 543
+Jun 05, 2022 10:18:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 552
+2022.06.05 22:18:58 WARN  no build target for: /home/ruby/Documents/programming-languages-learning/scala/hello/src/main/scala/Main.scala
+2022.06.05 22:18:58 INFO  shutting down Metals
+2022.06.05 22:19:05 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/ruby/Documents/programming-languages-learning/scala/hello/.metals/lsp.trace.json or /home/ruby/.cache/metals/lsp.trace.json
+2022.06.05 22:19:05 INFO  logging to file /home/ruby/Documents/programming-languages-learning/scala/hello/.metals/metals.log
+2022.06.05 22:19:05 INFO  Started: Metals version 0.11.6 in workspace '/home/ruby/Documents/programming-languages-learning/scala/hello' for client Visual Studio Code 1.66.2.
+2022.06.05 22:19:06 INFO  time: initialize in 0.41s
+2022.06.05 22:19:06 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.06.05 22:19:06 WARN  Build server is not auto-connectable.
+2022.06.05 22:19:06 INFO  skipping build import with status 'Requested'
+2022.06.05 22:19:08 WARN  no build target for: /home/ruby/Documents/programming-languages-learning/scala/hello/src/main/scala/Main.scala
+2022.06.05 22:19:09 INFO  no build target found for /home/ruby/Documents/programming-languages-learning/scala/hello/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.1.2
+Jun 05, 2022 10:19:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+2022.06.05 22:19:10 WARN  no build target for: /home/ruby/Documents/programming-languages-learning/scala/hello/src/main/scala/Main.scala
+2022.06.05 22:19:10 WARN  no build target for: /home/ruby/Documents/programming-languages-learning/scala/hello/src/main/scala/Main.scala
+2022.06.05 22:19:11 INFO  time: code lens generation in 2.65s
+2022.06.05 22:19:11 INFO  time: code lens generation in 2.94s
+Jun 05, 2022 10:19:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 21
+Jun 05, 2022 10:19:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 36
+Jun 05, 2022 10:19:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 37
+2022.06.05 22:21:31 WARN  no build target for: /home/ruby/Documents/programming-languages-learning/scala/hello/src/main/scala/Main.scala
+Jun 05, 2022 10:25:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 78
+Jun 05, 2022 10:25:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 84
