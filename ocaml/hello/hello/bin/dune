@@ -1,4 +1,4 @@
 (executable
  (public_name hello)
  (name main)
- (libraries hello core zarith num))
+ (libraries hello unix core zarith num))

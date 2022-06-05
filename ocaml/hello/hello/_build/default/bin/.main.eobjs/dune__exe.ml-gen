@@ -2,6 +2,10 @@
 module Algorithms = Dune__exe__Algorithms
 
 
+(** @canonical Dune__exe.Ex *)
+module Ex = Dune__exe__Ex
+
+
 (** @canonical Dune__exe.Fraction *)
 module Fraction = Dune__exe__Fraction
 
